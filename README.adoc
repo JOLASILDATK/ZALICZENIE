@@ -57,7 +57,7 @@ Tabela 1. Wpływ diety na leczenie niektórych chorób lub łagodzenie ich objaw
 
 == Zdrowe śniadanie
 
-image::docs/sniadanie.jpg[docs/sniadanie,400] 
+image::docs/sniadanie.jpg[docs/sniadanie,300] 
 [#img-docs/sniadanie]
 Rys.3. Brzoskwiniowo-borówkowa jaglanka.
 
