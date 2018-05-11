@@ -1,6 +1,6 @@
 = [big blue]#**Żyj zdrowo**#
 
-* https://JOLASILDATK.github.io/ZALICZENIE/[HTML5 – kuchnia Żyj zdrowo].
+* https://JOLASILDATK.github.io/docs/[HTML5 – kuchnia Żyj zdrowo].
 
 *Czy wiesz, że twój sposób odżywiania wpływa nie tylko na to, jak wyglądasz - czy jesteś szczupła czy masz nadwagę - ale również na twój stan zdrowia?*
 
