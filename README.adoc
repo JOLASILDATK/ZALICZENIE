@@ -55,4 +55,52 @@ Zastosowanie odpowiedniej diety może stanowić element leczniczy w przypadku ni
 
 Tabela 1. Wpływ diety na leczenie niektórych chorób lub łagodzenie ich objawów.
 
-Źródło: < http://www.ukladaniediety.pl/kacik-wiedzy/zywienie/wplyw-zywienia-na-stan-zdrowia>
+Źródło: <http://www.ukladaniediety.pl/kacik-wiedzy/zywienie/wplyw-zywienia-na-stan-zdrowia>
+
+== Zdrowe śniadanie
+
+image::docs/sniadanie.jpg[docs/sniadanie,300] 
+[#img-docs/sniadanie]
+Rys.3. Brzoskwiniowo-borówkowa jaglanka.
+
+*Przepis:*
+
+<https://zdrowe-odzywianie-przepisy.blogspot.com/2015/08/brzoskwiniowo-borowkowa-jaglanka.html>
+
+== Zdrowy obiad
+
+image::docs/obiad.jpg[docs/obiad,300] 
+[#img-docs/obiad]
+Rys.4. Makaron z cukinią i kurczakiem.
+
+*Przepis:*
+
+<https://www.codzienniefit.pl/recipe/makaron-z-cukinia-i-kurczakiem-w-czerwonym-sosie-zdrowy-obiad-przepis>
+
+== Zdrowa kolacja
+
+image::docs/kolacja.jpg[docs/kolacja,300] 
+[#img-docs/kolacja]
+Rys.5. Placki z cukinii z łososiem.
+
+*Przepis:*
+
+<http://www.codzienniefit.pl/2016/01/placuszki-z-cukinii-z-lososiem-pyszny-niskokaloryczny-posilek-przepis.html>
+
+== Koktajle
+
+image::docs/koktajle.jpg[docs/koktajle,300] 
+[#img-docs/koktajle]
+Rys.6. Zielony koktajl z gruszki i kiwi.
+
+*Przepis:*
+
+<https://www.zajadam.pl/koktajle/zielony-koktajl-z-gruszki-i-kiwi>
+
+image::docs/koktajle2.jpg[docs/koktajle2,300] 
+[#img-docs/koktajle2]
+Rys.7. Koktajl z owoców leśnych.
+
+*Przepis:*
+
+<https://www.zajadam.pl/koktajle/koktajl-z-owocow-lesnych>
