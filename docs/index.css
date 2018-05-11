@@ -1,0 +1,59 @@
+body {
+  font-size: 1.5em;
+}
+
+.main {
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(6, 1fr);
+  height: 100vh;
+  width: 100vw;
+}
+
+.one {
+  grid-area: 1 / 1 / 4 / 4;
+  background-image: url(https://www.thefitindian.com/wp-content/uploads/2014/07/fruit-and-vegetable-juices-768x525.jpg);
+background-size:cover;
+}
+
+.two {
+  grid-area: 1 / 4 / 5 / 6;
+  background-image: url(http://lisabaylis.com/wp/wp-content/uploads/2017/07/running.jpg);
+background-size:cover;
+}
+
+.three {
+  grid-area: 4 / 1 / 7 / 3;
+  background-image: url(https://res.cloudinary.com/jerrick/image/upload/f_auto,fl_progressive,q_auto,c_fit,w_1140/hywnju9wddeu9j7rlpdf);
+background-size:cover;
+}
+
+.four {
+  grid-area: 5 / 3 / 7 / 6;
+  background-image: url(https://trpphysio.com.au/cms/wp-content/uploads/2016/03/Dollarphotoclub_96599625-e1457404655525.jpg);
+  background-size:cover;
+}
+
+.five {
+  grid-area: 4 / 3 / 5 / 4;
+  background-image: url(https://www.bbcgoodfood.com/sites/default/files/guide/guide-image/2017/06/oranges-health-benefits-main-image-700-350.jpg);
+  background-size:cover;
+}
+
+
+.main > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+  .main {
+    display: block;
+  }
+  .main > div {
+    height: 200px;
+  }
+}
